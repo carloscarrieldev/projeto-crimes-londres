@@ -1,5 +1,4 @@
-# projeto-crimes-londres
-### Projeto Semantix - EBAC
+# Projeto EBAC - Crimes Londres
 
 # Objetivo 
 Analisar a quantidade e os tipos de crimes por ano, incluindo percentuais e outros detalhes relevantes, além de verificar as categorias para fornecer informações mais precisas.
@@ -31,10 +30,10 @@ A utilização desses dados é importante porque permite identificar os tipos de
 - Criação de dashboard interativo e explicativo no Power Bi.
 
 # Conclusões
-1. Período do mês: A análise dos sinistros de trânsito de agosto de 2026 identificou variações na quantidade de ocorrências ao longo do mês, com aumento no final do período. 
-2. Distribuição regional: A Baixada Santista, Campinas e Região Metropolitana de São Paulo apresentaram as maiores participações individuais no gráfico, com 9,2% cada.
-3. Vítimas e veículos: Foram contabilizadas 20.042 vítimas no período analisado.
-4. Tipos de sinistros: As colisões apareceram como uma das ocorrências mais frequentes na análise.
+1. Ocorrência de Crimes: Após a análise dos dados, os crimes ocorreram com maior frequência entre 2008 e 2012, ultrapassando mil casos por ano, o que evidencia um cenário de insegurança. Em 2014, houve uma queda significativa, indicando um ano mais equilibrado, mas, dois anos depois, os números voltaram a subir.
+2. Regiões por Crimes: A análise mostra áreas com altos índices de criminalidade, mantendo outras regiões com índices mais baixos para garantir estabilidade, destacando apenas uma região que se sobressaiu em relação às demais.
+3. Crimes por Mês: No início do ano, os meses foram relativamente tranquilos, com poucos registros de crimes. No entanto, em março, abril e maio, houve um aumento na criminalidade. Em agosto e setembro, observou-se uma queda significativa, proporcionando mais segurança nas ruas, embora tenha ocorrido um novo aumento posteriormente.
+4. Detalhes: Os crimes mais detalhados estão mais equilibrados, indicando que não houve grandes variações, embora algumas categorias apresentem números significativamente elevados.
 
 # Dashboard
-Looker Studio: https://datastudio.google.com/reporting/2bd349ac-a2bb-4338-9c4e-577a7eb8ec77
+Power Bi: Não consegui disponibilizar, pois é necessário ter uma conta específica para publicar. No entanto, deixei as imagens para visualização dos dados.
