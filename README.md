@@ -36,4 +36,5 @@ A utilização desses dados é importante porque permite identificar os tipos de
 4. Detalhes: Os crimes mais detalhados estão mais equilibrados, indicando que não houve grandes variações, embora algumas categorias apresentem números significativamente elevados.
 
 # Dashboard
-Power Bi: Não consegui disponibilizar, pois é necessário ter uma conta específica para publicar. No entanto, deixei as imagens para visualização dos dados.
+Power Bi: Não foi possível disponibilizar o dashboard de forma interativa por meio do Power BI Service, devido aos requisitos de conta e licença da plataforma.
+Para permitir a visualização dos resultados, disponibilizei imagens do dashboard com os principais indicadores e análises realizadas.
