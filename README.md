@@ -37,4 +37,5 @@ A utilização desses dados é importante porque permite identificar os tipos de
 
 # Dashboard
 Power Bi: Não foi possível disponibilizar o dashboard de forma interativa por meio do Power BI Service, devido aos requisitos de conta e licença da plataforma.
+
 Para permitir a visualização dos resultados, disponibilizei imagens do dashboard com os principais indicadores e análises realizadas.
