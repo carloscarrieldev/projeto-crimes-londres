@@ -17,7 +17,6 @@ A utilização desses dados é importante porque permite identificar os tipos de
 
 # Ferramentas Utilizadas
 - Python
-- Sys
 - BigQuery
 - Power Bi
 - Visual Studio Code
